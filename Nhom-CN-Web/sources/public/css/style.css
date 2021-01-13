@@ -1,0 +1,163 @@
+*{margin:0px;padding:0px;border: 0px;}
+div.header{
+	background-color: #f7850a;
+}
+div.container{
+	width: 980px;
+	height: 50px;
+	margin: 0px auto;
+}
+#img1{
+	height: 50px;
+	float: left;
+}
+.example{
+	float: right;
+	margin-top: 10px;
+	border: 1px solid black;
+}
+#input1{
+	height: 30px;
+	width: 400px;
+}
+#btn1{
+	margin-left: -3.5px; 
+	height: 30px;
+	width: 30px;
+	background-color: white;
+}
+.fa{
+	margin-top: -7px; 
+	color:#f7850a;
+	font-size:23px; 
+}
+.clear{clear:both;}
+div.list{
+	width: 100%;
+	height: 50px;
+/*	position: fixed;*/
+	background-color: #fff;
+}
+.form-control li{
+ display: inline-block;
+ list-style: none;
+ position: relative;
+ height: 27px;
+ padding-top: 12px;
+ width: 150px;
+}
+.form-control li:first-child a{
+	color:#f7850a;
+}
+.form-control li:first-child{
+	border-bottom: 3px solid #f7850a;
+}
+
+.form-control li a{
+	text-decoration: none;
+	color:#6e6f72;
+	margin-top:5px;
+
+}
+.form-control li:hover{
+	border-bottom: 3px solid #f7850a;
+	cursor: pointer;
+}
+.form-control li:hover a{
+	color:#f7850a;
+}
+/*.form-control .list2{
+	display: none;
+}*/
+.content{
+	background-color: #e9eaed;
+	height: 1000px;
+	width: 100%;
+}
+footer{
+	border-top:1px solid grey;
+	width: 100%;
+	height: 200px;
+	background-color: #fff; 
+}
+div.footer1{
+	width: 70%;
+	height: 100%;
+
+}
+div.footer2{
+float: right;
+}
+.h21{
+	display: inline;
+	color: #666;
+	font-weight: normal;
+}
+.h22{
+	color: #666;
+	font-weight: normal;
+}
+p{
+	text-align: justify;
+}
+div.area{
+	min-height: 295px;
+	width: 980px;
+	margin:0px auto;
+	background-color: white;
+}
+h2.thea{
+	height: 50px;
+	position: relative;
+	width: 100%;
+	/*border:1px solid #666;*/
+	border-bottom:1px ridge #666;
+}
+h2.thea img{
+	margin-top: 5px;
+	height: 25px;
+}
+.space{
+	height: 40px;
+}
+.ainarea{
+	position: absolute;
+	padding-top: 5px;
+	color:#f7850a;
+	/*font-size: 40px;*/
+}
+.ulslide li{
+display: inline-block;
+list-style: none;
+}
+.aimg_slide img{
+	height: 175px;
+	width: 128px;
+	margin:0px auto;
+	display: block;
+}
+.divimgslide
+{
+	margin-top: 0px;
+	height: 220px;
+	width: 160px;
+	border:1px solid lightskyblue;
+}
+.divimgslide:hover{
+	background-color: #e9eaed;
+}
+
+.atext{
+	width: 140px;
+	float: left;
+	font-weight: 700;
+    line-height: 16px;
+    padding: 15px 10px;
+    font-size: 15px;
+    color: #666;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+    text-decoration: none;
+}

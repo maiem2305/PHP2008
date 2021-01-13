@@ -1,0 +1,87 @@
+/*content Chap*/
+div.titile-manga ol.listOl{
+  padding-left:0px;
+}
+
+div.container.contentReadManga{
+  background-color:#fff;
+}
+
+div.titile-manga{
+  border-bottom:1px solid #ddd;
+}
+
+div.dtl_menu.text-center p{
+  display:inline-block;
+  margin-right:10px;
+  margin-top:10px;
+}
+
+div.dtl_menu.text-center p a{
+  color:#fff;
+  background:#02A8F4;
+  display:block;
+  height:28px;
+  padding:5px 20px 0;
+  text-decoration:none;
+}
+
+p.p-manga{
+  font-size:16px;
+  color:#02A8F4;
+  font-weight:bold;
+  margin-bottom:0px;
+  text-align:center;
+}
+
+p.read-chapter{
+  text-align:center;
+  font-size:16px;
+  color:#333;
+}
+
+div.time-view{
+  height:55px;
+  background-color:#e9eaed;
+}
+
+div.createtime-chap{
+  width:50%;
+  height:100%;
+  float:left;
+}
+
+div.view-chap{
+  width:50%;
+  height:100%;
+  float:left;
+}
+
+div.createtime-chap.text-center p{
+  margin-top:27px;
+  overflow:hidden;
+  font-size:10px;
+  color:#7e7e7e;
+}
+
+div.view-chap.text-center p{
+  margin-top:27px;
+}
+
+i.fa.fa-clock-o{
+  font-size:10px;
+  color:#7e7e7e;
+}
+
+div.view-chap.text-center p{
+  font-size:10px;
+  color:#7e7e7e;
+}
+
+div.content-chapter.text-center img{
+  height:1344px;
+  width:903px;
+  border:3px solid#8F8F8F;
+}
+
+/*End Style Chapter*/
